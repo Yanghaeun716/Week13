@@ -41,16 +41,21 @@
 <img src="https://user-images.githubusercontent.com/80022793/120227691-9bc85080-c284-11eb-995c-3ae3fbc7b8f1.png" width="300" height="300">
 
 ##### 김다혜(셔틀 버스, 택시 모임 구하기)
-<img src="https://user-images.githubusercontent.com/80022793/120227721-ada9f380-c284-11eb-83a5-8d082ea3f191.png" width="300" height="450"><img src="https://user-images.githubusercontent.com/80022793/120227734-b39fd480-c284-11eb-9899-edd73e895e40.png" width="300" height="450">
-<img src="https://user-images.githubusercontent.com/80022793/120227744-b8fd1f00-c284-11eb-9689-1896981dab1f.png" width="450" height="300">
+<img src="https://user-images.githubusercontent.com/80022793/120227721-ada9f380-c284-11eb-83a5-8d082ea3f191.png" width="300" height="420"><img src="https://user-images.githubusercontent.com/80022793/120227734-b39fd480-c284-11eb-9899-edd73e895e40.png" width="270" height="420"><img src="https://user-images.githubusercontent.com/80022793/120227744-b8fd1f00-c284-11eb-9689-1896981dab1f.png" width="450" height="300">
 
 ##### 마혜준(회원가입, 로그인)
+<img src="https://user-images.githubusercontent.com/80022793/120228535-48570200-c286-11eb-926e-a41aeed45b22.png" width="240" height="400"><img src="https://user-images.githubusercontent.com/80022793/120228543-4bea8900-c286-11eb-81b2-53249df06c23.png" width="240" height="400">
+![image](https://user-images.githubusercontent.com/80022793/120228525-412ff400-c286-11eb-957d-616ecb839532.png)
 
 ##### 박윤빈(시간표, 일정)
+<img src="https://user-images.githubusercontent.com/80022793/120229169-86085a80-c287-11eb-848c-5ac536ecc361.png" width="240" height="380"><img src="https://user-images.githubusercontent.com/80022793/120229181-8bfe3b80-c287-11eb-8ee4-5f77e19a0fd2.png" width="240" height="380"><img src="https://user-images.githubusercontent.com/80022793/120229200-93254980-c287-11eb-9136-899a4ab04217.png" width="240" height="380">
 
 ##### 심우정(게시판)
+<img src="https://user-images.githubusercontent.com/80022793/120229471-2d858d00-c288-11eb-9896-5d05d7a7ab46.png" width="450" height="270"><img src="https://user-images.githubusercontent.com/80022793/120229483-324a4100-c288-11eb-90db-36d7a283c8f7.png" width="450" height="270"><img src="https://user-images.githubusercontent.com/80022793/120229491-36765e80-c288-11eb-8c71-eaebe8c3df50.png" width="450" height="270"><img src="https://user-images.githubusercontent.com/80022793/120229498-3aa27c00-c288-11eb-822e-dd713daeb49f.png" width="450" height="270">
 
 ##### 양하은(메인화면, 채팅, (졸업학점 계산))
+
+<img src="" width="" height="">
             
 ## Project Milestone
 ![image](https://user-images.githubusercontent.com/80022793/120225254-dbd90480-c27f-11eb-8522-821f5722b238.png)
