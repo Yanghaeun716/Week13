@@ -55,7 +55,9 @@
 
 ##### 양하은(메인화면, 채팅, (졸업학점 계산))
 
-<img src="" width="" height="">
+<img src="https://user-images.githubusercontent.com/80022793/120312028-2c4d7200-c313-11eb-950b-fad3ab0802b7.png" width="240" height"380">
+
+<img src="https://user-images.githubusercontent.com/80022793/120311573-9dd8f080-c312-11eb-86bb-6254b6530713.png" width="450" height="270">
             
 ## Project Milestone
 ![image](https://user-images.githubusercontent.com/80022793/120225254-dbd90480-c27f-11eb-8522-821f5722b238.png)
