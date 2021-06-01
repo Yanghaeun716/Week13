@@ -55,9 +55,8 @@
 
 ##### 양하은(메인화면, 채팅, (졸업학점 계산))
 
-<img src="https://user-images.githubusercontent.com/80022793/120312028-2c4d7200-c313-11eb-950b-fad3ab0802b7.png" width="240" height"380">
-
-<img src="https://user-images.githubusercontent.com/80022793/120311573-9dd8f080-c312-11eb-86bb-6254b6530713.png" width="450" height="270">
+<img src="https://user-images.githubusercontent.com/80022793/120323629-a6d0be80-c320-11eb-83f1-76a9055bc25c.png" width="400" height="400"><img src="https://user-images.githubusercontent.com/80022793/120311573-9dd8f080-c312-11eb-86bb-6254b6530713.png" width="450" height="270">
+<img src="https://user-images.githubusercontent.com/80022793/120324213-560d9580-c321-11eb-8803-a0c34e953ad6.png" width="220" height="380"><img src="https://user-images.githubusercontent.com/80022793/120324378-848b7080-c321-11eb-91a6-402ac6485bea.png" width="220" height="380">
             
 ## Project Milestone
 ![image](https://user-images.githubusercontent.com/80022793/120225254-dbd90480-c27f-11eb-8522-821f5722b238.png)
